@@ -1,0 +1,22 @@
+{
+  "token": "OTQ4NDQ5MjYyNjEyNjcyNTYy.Yh7-NQ.t6tOD1OJZcnMntniVGaHRq-_s-g",
+  "prefix": "4",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  
+  
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "n1.lavalink.milrato.com",
+        "port": 10250,
+        "password": "discord.gg/milrato"
+      }
+    ]
+  },
+
+  "spotify": {
+    "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+    "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+  }
+
+}
